@@ -1,5 +1,8 @@
 # Lora-Mobile
 Lora-Control
-https://github.com/dungcand23/Lora-Mobile/assets/80266129/c9bc86d9-597f-4577-af9b-354eec47cb8d
+
+![image](https://github.com/dungcand23/Lora-Mobile/assets/80266129/8db511ca-b8a7-4883-b645-3eccb38b48ea)
+
 Lora-Wifi
-https://github.com/dungcand23/Lora-Mobile/assets/80266129/a7a301f6-b302-4ae0-b573-df95aaac2b72
+![image](https://github.com/dungcand23/Lora-Mobile/assets/80266129/1e766004-3c6d-4f98-bf88-5d42015cf6e1)
+
